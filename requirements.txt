@@ -1,0 +1,2 @@
+spotivents @ https://www.github.com/justfoolingaround/spotivents.git
+python-dotenv~=0.20.0
